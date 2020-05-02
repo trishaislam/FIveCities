@@ -1,0 +1,23 @@
+#top {
+  font-family: cursive;
+  position: fixed;
+  left: 500px;
+  top: 100px;
+    color: hotpink;}
+
+#hi{
+font-family: Helvetica;
+  position: relative;
+  left: 500px;
+  top: 50px;
+  color: yellowgreen;
+}
+
+#one{
+
+  position: relative;
+  left: 200px;
+  top: 0px;
+
+    
+}
